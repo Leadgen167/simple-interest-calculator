@@ -28,3 +28,5 @@ The **Simple Interest Calculator** is a basic shell script (`simple-interest.sh`
    ```bash
    git clone https://github.com/your-username/simple-interest-calculator.git
    cd simple-interest-calculator
+
+Note: This is a test change for a bug fix branch.
